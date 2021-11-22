@@ -1,4 +1,4 @@
-# Whole-Slide-Image-Registration
+# WSI Registration
 
 ## Keypoint Detection
 
