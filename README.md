@@ -1,4 +1,4 @@
-# WSI Registration
+# Remote Sensing Image Registration 
 
 ## Keypoint Detection
 
