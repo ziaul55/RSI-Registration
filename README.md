@@ -3,7 +3,7 @@
 ## Keypoint Detection
 
 ## Dependencies and Environment
-The codes are developed and tested in MATLAB R2020a, with both OpenCV.3.4.1 and the VLFeat open-source libraries on a desktop computer with Intel(R) Core (TM) i7-3770 CPU @ 3.40 GHz, 12.00GB RAM, running the Windows 8.1. In order to use the codes, you need some prerequisite as follow: 
+The codes are developed and tested in MATLAB R2020a, with both OpenCV.3.4.1 and the VLFeat open-source libraries. In order to use the codes, you need some prerequisite as follow: 
 - 	MATLAB 2020a
 - 	OpenCV (3.4.1)
 - 	VLFeat 0.9.21 
